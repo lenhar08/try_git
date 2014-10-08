@@ -2,4 +2,10 @@ I am a file.  Mua hahahahaha
 
 Yes!
 
+<<<<<<< HEAD
 yup,  i suppose you are...
+=======
+This is Dan’s Change! Woooo
+
+This is Dan’s 2nd Change.
+>>>>>>> feature/edittxtfile
